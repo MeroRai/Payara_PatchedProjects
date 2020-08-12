@@ -3,9 +3,10 @@
   <groupId>fish.payara.server.internal.deployment</groupId>
   <artifactId>deployment-client</artifactId>
   <versioning>
+    <release>5.2020.4</release>
     <versions>
-      <version>5.2020.4-SNAPSHOT</version>
+      <version>5.2020.4</version>
     </versions>
-    <lastUpdated>20200812005349</lastUpdated>
+    <lastUpdated>20200812010559</lastUpdated>
   </versioning>
 </metadata>
