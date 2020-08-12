@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fish.payara.server.internal.deployment</groupId>
+  <artifactId>deployment-client</artifactId>
+  <versioning>
+    <versions>
+      <version>5.2020.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200812005349</lastUpdated>
+  </versioning>
+</metadata>
